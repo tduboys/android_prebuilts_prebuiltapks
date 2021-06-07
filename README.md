@@ -20,3 +20,5 @@ The included APKs are:
    * GsfProxy: a GmsCore proxy for legacy GCM compatibility
    * FakeStore: an empty package that mocks the existence of the Google Play Store
    * com.google.android.maps: legacy microG's mapsv1 reimplementation
+ * Aurora OSS (biranies sourced from [here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)
+   * Aurora Services: an Aurora extension to ease the installation/removal of apps
